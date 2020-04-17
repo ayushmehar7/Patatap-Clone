@@ -1,10 +1,13 @@
 # Patatap-Clone
-A clone to Patatap.com using HTML,CSS, Hooks.js and Paper.js
-The sounds may or may not play in some browsers.
-It takes time to load the components at the start of the webpage to avoid that enter the directory in which the file is saved and type the following:
-if you have python v2.x installed then run: 
-  python -m SimpleHTTPServer
-or for python v3.x:
-  python -m http.server
+<h2>Idea taken from <a src="https://patatap.com">Patatap</a></h2>
+<h3>Made using HTML,CSS,javascript library Hooks.js and Paper.js</h3>
+<h3>Note:- The sounds may or may not play in some browsers</h3>
+<p>It takes time to load the components at the start of the webpage to avoid that navigate to the project directory in terminal and type the following command:<br/>
+<ul>
+<li>for python v2.x :<br/>
+  python -m SimpleHTTPServer<br/></li>
+<li>for python v3.x:<br/>
+  python -m http.server<br/></li>
+</ul>
 
-after this, go to http://localhost:8000 on your browser and click circles.html
+After this, go to http://localhost:8000 on your browser and click circles.html</p>
