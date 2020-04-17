@@ -1,6 +1,6 @@
 # Patatap-Clone
 <h2>Idea taken from <a src="https://patatap.com">Patatap</a></h2>
-<h3>Made using HTML,CSS,javascript library Hooks.js and Paper.js</h3>
+<h3>Made using HTML,CSS,javascript library Howler.js and Paper.js</h3>
 <h3>Note:- The sounds may or may not play in some browsers</h3>
 <p>It takes time to load the components at the start of the webpage to avoid that navigate to the project directory in terminal and type the following command:<br/>
 <ul>
