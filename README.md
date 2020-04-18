@@ -10,4 +10,4 @@
   python -m http.server<br/></li>
 </ul>
 
-After this, go to http://localhost:8000 on your browser and click circles.html</p>
+After this, go to http://localhost:8000 on your browser and click index.html</p>
